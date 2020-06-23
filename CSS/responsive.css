@@ -1,0 +1,17 @@
+@media all and (max-width: 1000px) {
+  .header #branding h1 {
+  margin: 0 20px 0 20px;
+  font-size: 15px;
+  }
+}
+
+
+@media all and (max-width: 670px) {
+  header #branding {
+  	display: none;
+  }
+
+  .brannding-active {
+  	display: block;
+  }
+}
